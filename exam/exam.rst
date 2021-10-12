@@ -2,15 +2,12 @@
 HYCU Sales Academy
 ------------------
 
-The HYCU Pitch
-++++++++++++++
+HYCU Sales Certification
+++++++++++++++++++++++++
 
 Now that you've completed the HYCU Sales Academy Course, you should be capable of delivering the HYCU pitch, giving a technical presentation, and demoing the HYCU product.
 
 Please complete the certification exam below.
-
-Test Your Knowledge
-+++++++++++++++++++
 
 .. raw:: html
 
