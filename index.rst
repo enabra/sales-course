@@ -12,12 +12,9 @@
 
 .. _getting_started:
 
-------------------
-HYCU Sales Academy
-------------------
-
+--------------
 The HYCU Pitch
-++++++++++++++
+--------------
 
 .. raw:: html
 
