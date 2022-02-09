@@ -1,6 +1,6 @@
---------------
-Spot by NetApp
---------------
+-------------------
+Spot by NetApp Exam
+-------------------
 
 Now that you've completed the Spot by NetApp Academy Course, you should be capable of delivering the Spot pitch, giving a technical presentation, and demoing the Spot product.
 
