@@ -1,8 +1,8 @@
-.. title:: HYCU with Nutanix
+.. title:: Introducing Spot by NetApp
 
 .. toctree::
    :maxdepth: 3
-   :caption: HYCU Learning Academy
+   :caption: Spot by NetApp
    :name: _learn
    :hidden:
 
@@ -13,12 +13,12 @@
 .. _getting_started:
 
 --------------
-The HYCU Pitch
+Spot by NetApp
 --------------
 
 .. raw:: html
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/jq6baLV6dwQ?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/TRKbpHcBlA8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Test Your Knowledge
 +++++++++++++++++++
