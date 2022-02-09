@@ -1,8 +1,8 @@
-------------------------
-HYCU Sales Certification
-------------------------
+--------------
+Spot by NetApp
+--------------
 
-Now that you've completed the HYCU Sales Academy Course, you should be capable of delivering the HYCU pitch, giving a technical presentation, and demoing the HYCU product.
+Now that you've completed the Spot by NetApp Academy Course, you should be capable of delivering the Spot pitch, giving a technical presentation, and demoing the Spot product.
 
 Please complete the certification exam below.
 
