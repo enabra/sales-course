@@ -1,6 +1,6 @@
--------------------------------------
-Spot by NetApp Technical Presentation
--------------------------------------
+---------------------------
+Spot Technical Presentation
+---------------------------
 
 .. raw:: html
 
